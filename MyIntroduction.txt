@@ -1,0 +1,9 @@
+I am Tejaswini Utlapalli and I am from India.I have completed my bachelor's degree in electronics and communications engineering.
+I worked for 2.6 years in Infrastructure management services at Mindtree Ltd( Multinational company) where I contributed myself towards network operations center(NOC) for 1 year and worked as a part of the Database team for the remaining time. 
+I have learned about different tools like Afaria, PRTG, Nagios, Salesforce, Mwatch , and technologies like Linux, Windows, Networking, and Virtual desktop infrastructure(VDI) when I worked as a NOC engineer.
+During my tenure as a DB admin, I have learned about working on SQL ,Oracle servers, and working on DBMS. I am currently on a sabbatical leave to study my master's and I will be going back to work for Mindtree Ltd once after finishing my studies.
+
+After looking at the outline of this course, I feel that I can learn about Angular(aka 5.x)( Which is a good framework, It lets us extend HTML vocabulary for the applications ),HTML,CSS,JQuery, Boostrap, Node, Webpack, TypeScript,RxJs, and using GitHub( I just realized the most of the people in IT industry are using this to store their data).
+Learning all these technologies will boost my skills. Mindtree is a service based company, it has many different clients. So, if I have the skills in different technologies, that helps me to get into the good project where I get the oppurtunity to utilize my skills and learn new skills.
+
+Hoping to be an HTML\Javascript\CSS ninja and to be good at other different technologies by the time I complete this course.
